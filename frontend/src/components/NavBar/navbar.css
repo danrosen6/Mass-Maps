@@ -1,0 +1,15 @@
+.navbar-container {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background-color: hsl(0, 3%, 14%);
+    border-bottom: 2px solid #444;
+}
+
+.navbar-container .nav-link {
+    color: white;
+}
+
+.navbar-container .nav-link:hover {
+    color: rgb(139, 137, 137);
+}
