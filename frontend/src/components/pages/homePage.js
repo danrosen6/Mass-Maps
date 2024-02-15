@@ -21,8 +21,11 @@ const HomePage = () => {
     return (
         <>
             <div>
+                <h1>
+                    Welcome to Mass Maps
+                </h1>
+                <p>This web app tracks the current location MBTA public transport</p>
                 <h3>
-                    Welcome
                     <span className='username'> @{username}</span>
                 </h3>
                 <h3>
