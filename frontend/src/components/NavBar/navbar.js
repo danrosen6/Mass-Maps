@@ -19,7 +19,7 @@ export default function NavbarComponent() { // Renamed to avoid naming conflict
           <Nav.Link className="nav-link" href="/">Start</Nav.Link>
           <Nav.Link className="nav-link" href="/home">Home</Nav.Link>
           <Nav.Link className="nav-link" href="/privateUserProfile">Profile</Nav.Link>
-          <Nav.Link  className="nav-link" href="/mapContainer">Map</Nav.Link>
+          <Nav.Link className = "nav-link" href="/liveMap">Live Map</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
